@@ -1,7 +1,8 @@
 using UnityEngine;
 
-public class NewMonoBehaviourScript : MonoBehaviour
-{ // onde declara as variaveis
+public class Player : MonoBehaviour
+{
+    // onde declara as variaveis
     //variavel publica pode mudar no unity, mas se for privada apenas sera mudada na programação
 
     //andar
@@ -37,30 +38,31 @@ public class NewMonoBehaviourScript : MonoBehaviour
     void Move() //void para movimentação
     {
         float teclas = Input.GetAxis("Horizontal");
-        rigi.linearVelocity = new Vector2 (teclas * speed, rigi.linearVelocity.y );
+        rigi.linearVelocity = new Vector2(teclas * speed, rigi.linearVelocity.y);
 
-        if ((teclas > 0) && (isGround = true));
+        if ((teclas > 0) && (isGround = true)) 
         {
             transform.eulerAngles = new Vector2(0, 0);
             anim.SetInteger("transition", 1);
         }
-        
-        if ((teclas < 0) && (isGround = true));
+
+        if ((teclas < 0) && (isGround = true)) 
         {
             transform.eulerAngles = new Vector2(0, 180);
             anim.SetInteger("transition", 1);
         }
 
-        if ((teclas == 0) && (isGround = true));
+        if ((teclas == 0) && (isGround = true)) 
         {
-            anim.SetInteger("transition",0);
+            anim.SetInteger("transition", 0);
         }
-    } 
-    
+    }
+
     void Jump()
     {
-        if (Input.GetKeyDown(KeyCode.Space) && isGround == true)//se a tecla estiver baixo(precionada) tlg?
+        if (Input.GetKeyDown(KeyCode.Space) && isGround == true)
         {
+            //se a tecla estiver baixo(precionada) tlg?
             rigi.AddForce(Vector2.up * jumpForce, ForceMode2D.Impulse);
             anim.SetInteger("transition", 2);
             isGround = false;
@@ -76,4 +78,6 @@ public class NewMonoBehaviourScript : MonoBehaviour
             Debug.Log("esta no chão");
         }
     }
+
+
 }
