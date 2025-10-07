@@ -6,6 +6,9 @@ public class Player : MonoBehaviour
     //variavel publica pode mudar no unity, mas se for privada apenas sera mudada na programação
 
     //andar
+    public Vector2 posicaoInicial;
+    public Gamemaneger gameManeger;
+
     public Animator anim;
     private Rigidbody2D rigi;
     public float speed;
@@ -24,6 +27,7 @@ public class Player : MonoBehaviour
 
         anim = GetComponent<Animator>(); //defino minha variavel e chamo no Animator
         rigi = GetComponent<Rigidbody2D>();  //defino minha variavel e chamo no Rigibody
+        posicaoInicial = transform.position; //pega a posição inicial
 
     }
 
@@ -35,6 +39,14 @@ public class Player : MonoBehaviour
         //tem que definir os void aqui
 
     }
+
+    public void ReiniciarPosicao()
+    {
+
+        transform.position = posicaoInicial;
+
+    }
+
     void Move() //void para movimentação
     {
         float teclas = Input.GetAxis("Horizontal");
@@ -81,3 +93,4 @@ public class Player : MonoBehaviour
 
 
 }
+    

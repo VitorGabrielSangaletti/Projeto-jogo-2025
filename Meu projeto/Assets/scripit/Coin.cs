@@ -1,8 +1,10 @@
 using UnityEngine;
 
 public class coin : MonoBehaviour
+
 {
-    private float ponto = 0;
+    public Gamemaneger gameManager;
+  
  
     void Start()
     {
@@ -20,8 +22,9 @@ public class coin : MonoBehaviour
     {
         if (collision.CompareTag("Player")) 
         {
-            Debug.Log("colidiu");
-            ponto += 10;
+            gameManager.AddPontos(10);
+            Destroy(gameObject);
+            
         
         }
          
