@@ -1,0 +1,2067 @@
+fileFormatVersion: 2
+guid: 995407612a6442f4c8aca27bddcaf6d1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1195349171028491279
+    second: janela_0
+  - first:
+      213: -5291049322931570968
+    second: janela_1
+  - first:
+      213: 4354406817356610996
+    second: janela_2
+  - first:
+      213: -5605357716871072998
+    second: janela_3
+  - first:
+      213: -1199856778805397362
+    second: janela_4
+  - first:
+      213: 7724949913596857104
+    second: janela_5
+  - first:
+      213: 140057826608739747
+    second: janela_6
+  - first:
+      213: -6361588387093357818
+    second: janela_7
+  - first:
+      213: -8399004883779496011
+    second: janela_8
+  - first:
+      213: -8530147600105223619
+    second: janela_9
+  - first:
+      213: 2448585462713247388
+    second: janela_10
+  - first:
+      213: -9002108600607657461
+    second: janela_11
+  - first:
+      213: 2176735033243256005
+    second: janela_12
+  - first:
+      213: 3543983361584809479
+    second: janela_13
+  - first:
+      213: -6800989711630134096
+    second: janela_14
+  - first:
+      213: 3985252073348853656
+    second: janela_15
+  - first:
+      213: -7667535467632154860
+    second: janela_16
+  - first:
+      213: 2292487768504578156
+    second: janela_17
+  - first:
+      213: -6211369823054669524
+    second: janela_18
+  - first:
+      213: -7672884554034461886
+    second: janela_19
+  - first:
+      213: -1755062812738742731
+    second: janela_20
+  - first:
+      213: -6188495755220948312
+    second: janela_21
+  - first:
+      213: -8615225009806388417
+    second: janela_22
+  - first:
+      213: -5002270838072517611
+    second: janela_23
+  - first:
+      213: -1726173720577663435
+    second: janela_24
+  - first:
+      213: 6840396729816132822
+    second: janela_25
+  - first:
+      213: 8415948415418679489
+    second: janela_26
+  - first:
+      213: -4921249360553643759
+    second: janela_27
+  - first:
+      213: 2871118890371092640
+    second: janela_28
+  - first:
+      213: -4135292378393852608
+    second: janela_29
+  - first:
+      213: -8195437235566559018
+    second: janela_30
+  - first:
+      213: 8046248700572238861
+    second: janela_31
+  - first:
+      213: 1053110133981469857
+    second: janela_32
+  - first:
+      213: -112500456468489727
+    second: janela_33
+  - first:
+      213: -5517395168830934351
+    second: janela_34
+  - first:
+      213: 4720492047411994741
+    second: janela_35
+  - first:
+      213: -7816521659820585280
+    second: janela_36
+  - first:
+      213: -3469461762146193753
+    second: janela_37
+  - first:
+      213: -6555089669154001081
+    second: janela_38
+  - first:
+      213: -6209964190180171058
+    second: janela_39
+  - first:
+      213: 8562147282262848858
+    second: janela_40
+  - first:
+      213: 2970605988750370994
+    second: janela_41
+  - first:
+      213: 7250582585095642298
+    second: janela_42
+  - first:
+      213: -1974968063808758470
+    second: janela_43
+  - first:
+      213: 6997783716222097437
+    second: janela_44
+  - first:
+      213: 6557669314935347650
+    second: janela_45
+  - first:
+      213: -5452326853088252445
+    second: janela_46
+  - first:
+      213: -4723226989976213585
+    second: janela_47
+  - first:
+      213: -4030335538574726836
+    second: janela_48
+  - first:
+      213: 3988856092200587677
+    second: janela_49
+  - first:
+      213: 4364980592621749158
+    second: janela_50
+  - first:
+      213: -8503772368168068011
+    second: janela_51
+  - first:
+      213: 1776644119075233377
+    second: janela_52
+  - first:
+      213: -2342635056505005809
+    second: janela_53
+  - first:
+      213: 5213383392107934332
+    second: janela_54
+  - first:
+      213: 1361104340991429283
+    second: janela_55
+  - first:
+      213: -590130144291443648
+    second: janela_56
+  - first:
+      213: 328556859483407048
+    second: janela_57
+  - first:
+      213: 5955055745713353257
+    second: janela_58
+  - first:
+      213: 5537113246215053790
+    second: janela_59
+  - first:
+      213: -1973702908118893927
+    second: janela_60
+  - first:
+      213: -7880615027982570121
+    second: janela_61
+  - first:
+      213: -6415614394088349930
+    second: janela_62
+  - first:
+      213: -430798948181503243
+    second: janela_63
+  - first:
+      213: -8885002880433709978
+    second: janela_64
+  - first:
+      213: -5434840291342420342
+    second: janela_65
+  - first:
+      213: -125648269201181258
+    second: janela_66
+  - first:
+      213: 1274173504516239430
+    second: janela_67
+  - first:
+      213: 4135573319976842509
+    second: janela_68
+  - first:
+      213: -5641219149452012907
+    second: janela_69
+  - first:
+      213: -444821389145607523
+    second: janela_70
+  - first:
+      213: -4246651293801695697
+    second: janela_71
+  - first:
+      213: -695477024975443645
+    second: janela_72
+  - first:
+      213: 7201341295887321704
+    second: janela_73
+  - first:
+      213: 5855110205185405753
+    second: janela_74
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: janela_0
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 4105
+        width: 929
+        height: 807
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0cf5b1ecbbb69010800000000000000
+      internalID: 1195349171028491279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: janela_1
+      rect:
+        serializedVersion: 2
+        x: 1338
+        y: 4877
+        width: 136
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e6b7998caa6296b0800000000000000
+      internalID: -5291049322931570968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: janela_2
+      rect:
+        serializedVersion: 2
+        x: 1484
+        y: 4877
+        width: 182
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bd74140ee5fd6c30800000000000000
+      internalID: 4354406817356610996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: janela_3
+      rect:
+        serializedVersion: 2
+        x: 2149
+        y: 4776
+        width: 705
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a13b7eedad4c532b0800000000000000
+      internalID: -5605357716871072998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: janela_4
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 4095
+        width: 929
+        height: 744
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e88b5f5ed90495fe0800000000000000
+      internalID: -1199856778805397362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: janela_5
+      rect:
+        serializedVersion: 2
+        x: 2041
+        y: 4095
+        width: 929
+        height: 657
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01b00a39409843b60800000000000000
+      internalID: 7724949913596857104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: janela_6
+      rect:
+        serializedVersion: 2
+        x: 3021
+        y: 4095
+        width: 929
+        height: 657
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a5f60be9d591f100800000000000000
+      internalID: 140057826608739747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: janela_7
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 3902
+        width: 176
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60bdc0c211917b7a0800000000000000
+      internalID: -6361588387093357818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: janela_8
+      rect:
+        serializedVersion: 2
+        x: 1157
+        y: 3844
+        width: 452
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b75d8bde8db07b80800000000000000
+      internalID: -8399004883779496011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: janela_9
+      rect:
+        serializedVersion: 2
+        x: 3060
+        y: 3581
+        width: 825
+        height: 470
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3ac31ec3f3de9980800000000000000
+      internalID: -8530147600105223619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: janela_10
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 3251
+        width: 452
+        height: 633
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c966533518f1bf120800000000000000
+      internalID: 2448585462713247388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: janela_11
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 3251
+        width: 452
+        height: 633
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b02ba474ce5121380800000000000000
+      internalID: -9002108600607657461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: janela_12
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 3251
+        width: 374
+        height: 564
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c4cc9adaf0553e10800000000000000
+      internalID: 2176735033243256005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: janela_13
+      rect:
+        serializedVersion: 2
+        x: 1723
+        y: 3251
+        width: 374
+        height: 564
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 706482d2712ce2130800000000000000
+      internalID: 3543983361584809479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: janela_14
+      rect:
+        serializedVersion: 2
+        x: 2149
+        y: 3324
+        width: 303
+        height: 443
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b41335f3e70e91a0800000000000000
+      internalID: -6800989711630134096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: janela_15
+      rect:
+        serializedVersion: 2
+        x: 2744
+        y: 2959
+        width: 688
+        height: 380
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89fe85c55a57e4730800000000000000
+      internalID: 3985252073348853656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: janela_16
+      rect:
+        serializedVersion: 2
+        x: 1234
+        y: 3011
+        width: 287
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 417a315dd11779590800000000000000
+      internalID: -7667535467632154860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: janela_17
+      rect:
+        serializedVersion: 2
+        x: 1894
+        y: 2947
+        width: 705
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c60b4a5ba7d80df10800000000000000
+      internalID: 2292487768504578156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: janela_18
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 2315
+        width: 772
+        height: 660
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c29de302e08ccc9a0800000000000000
+      internalID: -6211369823054669524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: janela_19
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 2353
+        width: 772
+        height: 622
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 243c13a9620748590800000000000000
+      internalID: -7672884554034461886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: janela_20
+      rect:
+        serializedVersion: 2
+        x: 1870
+        y: 2353
+        width: 772
+        height: 535
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5369538aba3c4a7e0800000000000000
+      internalID: -1755062812738742731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: janela_21
+      rect:
+        serializedVersion: 2
+        x: 2715
+        y: 2353
+        width: 772
+        height: 535
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8aaea0016eb0e1aa0800000000000000
+      internalID: -6188495755220948312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: janela_22
+      rect:
+        serializedVersion: 2
+        x: 1065
+        y: 2207
+        width: 212
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f33dd6ebf72907880800000000000000
+      internalID: -8615225009806388417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: janela_23
+      rect:
+        serializedVersion: 2
+        x: 1644
+        y: 2139
+        width: 610
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51c546a0d2d549ab0800000000000000
+      internalID: -5002270838072517611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: janela_24
+      rect:
+        serializedVersion: 2
+        x: 3540
+        y: 2165
+        width: 429
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53e9a5495266b08e0800000000000000
+      internalID: -1726173720577663435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: janela_25
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 1304
+        width: 627
+        height: 864
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dc2f637598fdee50800000000000000
+      internalID: 6840396729816132822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: janela_26
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 1321
+        width: 610
+        height: 847
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c0ca058e747bc470800000000000000
+      internalID: 8415948415418679489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: janela_27
+      rect:
+        serializedVersion: 2
+        x: 1533
+        y: 1420
+        width: 15
+        height: 604
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 111f41dc7c534bbb0800000000000000
+      internalID: -4921249360553643759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: janela_28
+      rect:
+        serializedVersion: 2
+        x: 1648
+        y: 1321
+        width: 603
+        height: 772
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a09b704b6348d720800000000000000
+      internalID: 2871118890371092640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: janela_29
+      rect:
+        serializedVersion: 2
+        x: 2323
+        y: 1321
+        width: 603
+        height: 772
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0454477dd7d7c96c0800000000000000
+      internalID: -4135292378393852608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: janela_30
+      rect:
+        serializedVersion: 2
+        x: 2985
+        y: 1420
+        width: 481
+        height: 607
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d0cb0b6145f34e80800000000000000
+      internalID: -8195437235566559018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: janela_31
+      rect:
+        serializedVersion: 2
+        x: 3540
+        y: 2016
+        width: 429
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d048e04ff840aaf60800000000000000
+      internalID: 8046248700572238861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: janela_32
+      rect:
+        serializedVersion: 2
+        x: 3557
+        y: 1889
+        width: 100
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ac545556166d9e00800000000000000
+      internalID: 1053110133981469857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: janela_33
+      rect:
+        serializedVersion: 2
+        x: 3664
+        y: 1958
+        width: 151
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10a502f4e61507ef0800000000000000
+      internalID: -112500456468489727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: janela_34
+      rect:
+        serializedVersion: 2
+        x: 3817
+        y: 1958
+        width: 132
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b2306c83564e63b0800000000000000
+      internalID: -5517395168830934351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: janela_35
+      rect:
+        serializedVersion: 2
+        x: 3662
+        y: 1889
+        width: 289
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5706c03c18e828140800000000000000
+      internalID: 4720492047411994741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: janela_36
+      rect:
+        serializedVersion: 2
+        x: 3531
+        y: 1704
+        width: 429
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ce4f3fc6f2268390800000000000000
+      internalID: -7816521659820585280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: janela_37
+      rect:
+        serializedVersion: 2
+        x: 3531
+        y: 1554
+        width: 429
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7aea979c8eef9dfc0800000000000000
+      internalID: -3469461762146193753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: janela_38
+      rect:
+        serializedVersion: 2
+        x: 3547
+        y: 1435
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74f2e3f1da4a705a0800000000000000
+      internalID: -6555089669154001081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: janela_39
+      rect:
+        serializedVersion: 2
+        x: 3653
+        y: 1435
+        width: 288
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec22a688876c1d9a0800000000000000
+      internalID: -6209964190180171058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: janela_40
+      rect:
+        serializedVersion: 2
+        x: 1015
+        y: 1183
+        width: 270
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a557ad9c69bd2d670800000000000000
+      internalID: 8562147282262848858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: janela_41
+      rect:
+        serializedVersion: 2
+        x: 3618
+        y: 1282
+        width: 312
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b82d176866b93920800000000000000
+      internalID: 2970605988750370994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: janela_42
+      rect:
+        serializedVersion: 2
+        x: 1552
+        y: 1005
+        width: 617
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abc5247227e3f9460800000000000000
+      internalID: 7250582585095642298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: janela_43
+      rect:
+        serializedVersion: 2
+        x: 2313
+        y: 991
+        width: 164
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3d10f182018794e0800000000000000
+      internalID: -1974968063808758470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: janela_44
+      rect:
+        serializedVersion: 2
+        x: 2448
+        y: 1022
+        width: 214
+        height: 211
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d185e6cc63f1d1160800000000000000
+      internalID: 6997783716222097437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: janela_45
+      rect:
+        serializedVersion: 2
+        x: 2636
+        y: 991
+        width: 163
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c953377f75810b50800000000000000
+      internalID: 6557669314935347650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: janela_46
+      rect:
+        serializedVersion: 2
+        x: 3607
+        y: 1144
+        width: 323
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ede9526d917554b0800000000000000
+      internalID: -5452326853088252445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: janela_47
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 1054
+        width: 136
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa72eecc31ab37eb0800000000000000
+      internalID: -4723226989976213585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: janela_48
+      rect:
+        serializedVersion: 2
+        x: 1089
+        y: 1055
+        width: 258
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c49ee996e2f5118c0800000000000000
+      internalID: -4030335538574726836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: janela_49
+      rect:
+        serializedVersion: 2
+        x: 3618
+        y: 994
+        width: 312
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d91d4c36b734b5730800000000000000
+      internalID: 3988856092200587677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: janela_50
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 198
+        width: 617
+        height: 833
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a381bae8b6839c30800000000000000
+      internalID: 4364980592621749158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: janela_51
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 249
+        width: 617
+        height: 782
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55c5f8806188cf980800000000000000
+      internalID: -8503772368168068011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: janela_52
+      rect:
+        serializedVersion: 2
+        x: 1558
+        y: 249
+        width: 605
+        height: 690
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16e14c9c968e7a810800000000000000
+      internalID: 1776644119075233377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: janela_53
+      rect:
+        serializedVersion: 2
+        x: 2237
+        y: 249
+        width: 605
+        height: 690
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0954a2f3d94d7fd0800000000000000
+      internalID: -2342635056505005809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: janela_54
+      rect:
+        serializedVersion: 2
+        x: 2887
+        y: 782
+        width: 286
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c72b38cc298a95840800000000000000
+      internalID: 5213383392107934332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: janela_55
+      rect:
+        serializedVersion: 2
+        x: 3607
+        y: 856
+        width: 323
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3aa490bcf2d93e210800000000000000
+      internalID: 1361104340991429283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: janela_56
+      rect:
+        serializedVersion: 2
+        x: 2870
+        y: 653
+        width: 303
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04c224aa2cf6fc7f0800000000000000
+      internalID: -590130144291443648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: janela_57
+      rect:
+        serializedVersion: 2
+        x: 3634
+        y: 736
+        width: 296
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c2c60219b44f8400800000000000000
+      internalID: 328556859483407048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: janela_58
+      rect:
+        serializedVersion: 2
+        x: 3698
+        y: 649
+        width: 209
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 922b4e446ab94a250800000000000000
+      internalID: 5955055745713353257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: janela_59
+      rect:
+        serializedVersion: 2
+        x: 2950
+        y: 477
+        width: 478
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed122c91927c7dc40800000000000000
+      internalID: 5537113246215053790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: janela_60
+      rect:
+        serializedVersion: 2
+        x: 3467
+        y: 472
+        width: 447
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99afa6589affb94e0800000000000000
+      internalID: -1973702908118893927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: janela_61
+      rect:
+        serializedVersion: 2
+        x: 2958
+        y: 335
+        width: 470
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77d6e75a26e62a290800000000000000
+      internalID: -7880615027982570121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: janela_62
+      rect:
+        serializedVersion: 2
+        x: 3467
+        y: 334
+        width: 447
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61f1b7033b827f6a0800000000000000
+      internalID: -6415614394088349930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: janela_63
+      rect:
+        serializedVersion: 2
+        x: 2950
+        y: 180
+        width: 478
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f2970c93ae750af0800000000000000
+      internalID: -430798948181503243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: janela_64
+      rect:
+        serializedVersion: 2
+        x: 3532
+        y: 254
+        width: 361
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66c1d6b74f022b480800000000000000
+      internalID: -8885002880433709978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: janela_65
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 39
+        width: 132
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a86fd8fcc819394b0800000000000000
+      internalID: -5434840291342420342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: janela_66
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 72
+        width: 174
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b5fe9b909b914ef0800000000000000
+      internalID: -125648269201181258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: janela_67
+      rect:
+        serializedVersion: 2
+        x: 1228
+        y: 39
+        width: 132
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 640b7ee2d06cea110800000000000000
+      internalID: 1274173504516239430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: janela_68
+      rect:
+        serializedVersion: 2
+        x: 1512
+        y: 56
+        width: 127
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d057dc7f502846930800000000000000
+      internalID: 4135573319976842509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: janela_69
+      rect:
+        serializedVersion: 2
+        x: 1679
+        y: 51
+        width: 112
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59218c0721d56b1b0800000000000000
+      internalID: -5641219149452012907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: janela_70
+      rect:
+        serializedVersion: 2
+        x: 1828
+        y: 59
+        width: 132
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d92fa77ad4da3d9f0800000000000000
+      internalID: -444821389145607523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: janela_71
+      rect:
+        serializedVersion: 2
+        x: 1986
+        y: 53
+        width: 95
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f263ff3e52dd015c0800000000000000
+      internalID: -4246651293801695697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: janela_72
+      rect:
+        serializedVersion: 2
+        x: 3496
+        y: 146
+        width: 342
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 349a4e0a45b2956f0800000000000000
+      internalID: -695477024975443645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: janela_73
+      rect:
+        serializedVersion: 2
+        x: 2958
+        y: 38
+        width: 470
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86a07b711cd40f360800000000000000
+      internalID: 7201341295887321704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: janela_74
+      rect:
+        serializedVersion: 2
+        x: 3496
+        y: 75
+        width: 342
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93337dcb5b7814150800000000000000
+      internalID: 5855110205185405753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      janela_0: 1195349171028491279
+      janela_1: -5291049322931570968
+      janela_10: 2448585462713247388
+      janela_11: -9002108600607657461
+      janela_12: 2176735033243256005
+      janela_13: 3543983361584809479
+      janela_14: -6800989711630134096
+      janela_15: 3985252073348853656
+      janela_16: -7667535467632154860
+      janela_17: 2292487768504578156
+      janela_18: -6211369823054669524
+      janela_19: -7672884554034461886
+      janela_2: 4354406817356610996
+      janela_20: -1755062812738742731
+      janela_21: -6188495755220948312
+      janela_22: -8615225009806388417
+      janela_23: -5002270838072517611
+      janela_24: -1726173720577663435
+      janela_25: 6840396729816132822
+      janela_26: 8415948415418679489
+      janela_27: -4921249360553643759
+      janela_28: 2871118890371092640
+      janela_29: -4135292378393852608
+      janela_3: -5605357716871072998
+      janela_30: -8195437235566559018
+      janela_31: 8046248700572238861
+      janela_32: 1053110133981469857
+      janela_33: -112500456468489727
+      janela_34: -5517395168830934351
+      janela_35: 4720492047411994741
+      janela_36: -7816521659820585280
+      janela_37: -3469461762146193753
+      janela_38: -6555089669154001081
+      janela_39: -6209964190180171058
+      janela_4: -1199856778805397362
+      janela_40: 8562147282262848858
+      janela_41: 2970605988750370994
+      janela_42: 7250582585095642298
+      janela_43: -1974968063808758470
+      janela_44: 6997783716222097437
+      janela_45: 6557669314935347650
+      janela_46: -5452326853088252445
+      janela_47: -4723226989976213585
+      janela_48: -4030335538574726836
+      janela_49: 3988856092200587677
+      janela_5: 7724949913596857104
+      janela_50: 4364980592621749158
+      janela_51: -8503772368168068011
+      janela_52: 1776644119075233377
+      janela_53: -2342635056505005809
+      janela_54: 5213383392107934332
+      janela_55: 1361104340991429283
+      janela_56: -590130144291443648
+      janela_57: 328556859483407048
+      janela_58: 5955055745713353257
+      janela_59: 5537113246215053790
+      janela_6: 140057826608739747
+      janela_60: -1973702908118893927
+      janela_61: -7880615027982570121
+      janela_62: -6415614394088349930
+      janela_63: -430798948181503243
+      janela_64: -8885002880433709978
+      janela_65: -5434840291342420342
+      janela_66: -125648269201181258
+      janela_67: 1274173504516239430
+      janela_68: 4135573319976842509
+      janela_69: -5641219149452012907
+      janela_7: -6361588387093357818
+      janela_70: -444821389145607523
+      janela_71: -4246651293801695697
+      janela_72: -695477024975443645
+      janela_73: 7201341295887321704
+      janela_74: 5855110205185405753
+      janela_8: -8399004883779496011
+      janela_9: -8530147600105223619
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
