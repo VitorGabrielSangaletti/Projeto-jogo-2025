@@ -1,2 +1,2 @@
 # Projeto-jogo-2025
-Projeto da aula de jogos digitais
+Projeto final de criação de jogos 2D
